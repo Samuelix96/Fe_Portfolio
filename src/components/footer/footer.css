@@ -1,0 +1,19 @@
+/** @format */
+
+.br-bord {
+  border: 2px solid rgb(240, 239, 239);
+}
+ul li h2 {
+  color: aliceblue;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+@media screen and (max-width: 550px) {
+  .box-footer {
+    margin: 1rem;
+  }
+  ul li {
+    font-size: 12px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
