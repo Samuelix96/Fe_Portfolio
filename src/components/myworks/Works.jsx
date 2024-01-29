@@ -7,7 +7,7 @@ import './mywor.css';
 
 const Works = ({ img, title, source, description }) => {
   const handleMyWork = () => {
-    window.location.href = `https://main--stalwart-chaja-ddabcd.netlify.app`;
+    window.location.href = `https://katanstory-lerosamuele.netlify.app`;
   };
   return (
     <div>
